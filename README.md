@@ -1,9 +1,3 @@
-<!--
-이 파일은 별도 저장소 `hobbyworker/JamoMoa-updates`의 README.md 가 될 내용이다.
-JamoMoa-updates 저장소가 clone 되었으면 그 안의 README.md를 이 파일 내용으로
-덮어쓰고 첫 commit + push 하면 끝.
--->
-
 # JamoMoa Updates
 
 [자모모아](https://github.com/hobbyworker/JamoMoa) — macOS 한글 NFD/NFC
