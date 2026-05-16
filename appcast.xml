@@ -3,13 +3,25 @@
     <channel>
         <title>JamoMoa</title>
         <item>
+            <title>0.9.5</title>
+            <pubDate>Sat, 16 May 2026 14:55:11 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://hobbyworker.github.io/JamoMoa-updates/releases/JamoMoa-0.9.5.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.5/JamoMoa-0.9.5.dmg" length="1556556" type="application/octet-stream" sparkle:edSignature="JrfJNjBg8DgynWv30zQZdvw5yV0GT3eSVKyvBZ63ELprvXThiynx3IILIycgSU5zc7wHK7bMEhZjZgJO3tf4AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.5/JamoMoa5-4.delta" sparkle:deltaFrom="4" length="11098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yNEowkazbmDod1p+vtK3GonOa94CGeNbj++hf7dltXz0afLglrNow0UwRTJIOcSmvD3SG3VfulntXM7FXj9FDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.3</title>
             <pubDate>Sat, 16 May 2026 13:26:33 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://hobbyworker.github.io/JamoMoa-updates/releases/JamoMoa-0.9.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.3/JamoMoa-0.9.3.dmg" length="1556263" type="application/octet-stream" sparkle:edSignature="TAyNE04j6NDo0cV3Qb42ML77mTuJqtdzsgfEhySuH/a9sc2R6dMQENBFzTZM32rO9LTHgvmNNQOInv3po5VcBw=="/>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.5/JamoMoa-0.9.3.dmg" length="1556263" type="application/octet-stream" sparkle:edSignature="TAyNE04j6NDo0cV3Qb42ML77mTuJqtdzsgfEhySuH/a9sc2R6dMQENBFzTZM32rO9LTHgvmNNQOInv3po5VcBw=="/>
         </item>
     </channel>
 </rss>
