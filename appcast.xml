@@ -3,16 +3,26 @@
     <channel>
         <title>JamoMoa</title>
         <item>
+            <title>0.9.8</title>
+            <pubDate>Mon, 18 May 2026 06:08:03 +0900</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.8/JamoMoa-0.9.8.dmg" length="1504847" type="application/octet-stream" sparkle:edSignature="yZkl0irHdGVq9c/cZPL/DA644Go6AG33gQfq/UV7/oruKjLS22SnSWPoqki3ecN6rgwrVI346Lu8gBRZM+7bAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.8/JamoMoa8-7.delta" sparkle:deltaFrom="7" length="11614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s29864IxkRdWRhNb2NU0jUVpx4F/l6WPsjWQw1Z5t7swu6L6775ofUoTAnYQT8dmkKhvpXoN9QhLsTd8mVQwBA=="/>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.8/JamoMoa8-6.delta" sparkle:deltaFrom="6" length="10886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Vluz62LsGAlSJ0VPawdFFzri17WK7YFHqWa3NS6tAqk7coBhpqZjraJu73dBcmTcWqgbU8S7eo5YmuoMwgTABg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.7</title>
             <pubDate>Sun, 17 May 2026 19:05:27 +0900</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.7.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa-0.9.7.dmg" length="1944697" type="application/octet-stream" sparkle:edSignature="XM7/pATu4lTd13CyaWyKdTIM/Dkoeii/4VZ70QBJn0nh6XNXj3wPfW64bmsHPm4jYmRXnI8galjwJUU95kSXAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa7-6.delta" sparkle:deltaFrom="6" length="11014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Drrot4fXAHvDxh8mlX+EXrXpd0hhqax13O/u0nMA5Q28+ZSitOiS69pByj8OusM3xDCzOzgmR6RrqrDIvWH0DA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.8/JamoMoa-0.9.7.dmg" length="1944697" type="application/octet-stream" sparkle:edSignature="XM7/pATu4lTd13CyaWyKdTIM/Dkoeii/4VZ70QBJn0nh6XNXj3wPfW64bmsHPm4jYmRXnI8galjwJUU95kSXAg=="/>
         </item>
         <item>
             <title>0.9.6</title>
@@ -21,7 +31,7 @@
             <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.6.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa-0.9.6.dmg" length="1945309" type="application/octet-stream" sparkle:edSignature="feRfVZEnJkyxHyFp28s5OnaATUbeM8R71etlxDaGCr3HhOIK8MUxpCwqr09do+jYKtM/oGkCrVuO6yAxqSHXCA=="/>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.8/JamoMoa-0.9.6.dmg" length="1945309" type="application/octet-stream" sparkle:edSignature="feRfVZEnJkyxHyFp28s5OnaATUbeM8R71etlxDaGCr3HhOIK8MUxpCwqr09do+jYKtM/oGkCrVuO6yAxqSHXCA=="/>
         </item>
     </channel>
 </rss>
