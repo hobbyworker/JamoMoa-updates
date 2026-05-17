@@ -3,13 +3,25 @@
     <channel>
         <title>JamoMoa</title>
         <item>
+            <title>0.9.7</title>
+            <pubDate>Sun, 17 May 2026 19:05:27 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa-0.9.7.dmg" length="1944697" type="application/octet-stream" sparkle:edSignature="XM7/pATu4lTd13CyaWyKdTIM/Dkoeii/4VZ70QBJn0nh6XNXj3wPfW64bmsHPm4jYmRXnI8galjwJUU95kSXAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa7-6.delta" sparkle:deltaFrom="6" length="11014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Drrot4fXAHvDxh8mlX+EXrXpd0hhqax13O/u0nMA5Q28+ZSitOiS69pByj8OusM3xDCzOzgmR6RrqrDIvWH0DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.6</title>
             <pubDate>Sun, 17 May 2026 18:19:42 +0900</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://hobbyworker.github.io/JamoMoa-updates/releases/JamoMoa-0.9.6.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.6/JamoMoa-0.9.6.dmg" length="1945309" type="application/octet-stream" sparkle:edSignature="feRfVZEnJkyxHyFp28s5OnaATUbeM8R71etlxDaGCr3HhOIK8MUxpCwqr09do+jYKtM/oGkCrVuO6yAxqSHXCA=="/>
+            <sparkle:releaseNotesLink>https://jamomoa-updates.hobbyworker.me/releases/JamoMoa-0.9.6.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hobbyworker/JamoMoa-updates/releases/download/v0.9.7/JamoMoa-0.9.6.dmg" length="1945309" type="application/octet-stream" sparkle:edSignature="feRfVZEnJkyxHyFp28s5OnaATUbeM8R71etlxDaGCr3HhOIK8MUxpCwqr09do+jYKtM/oGkCrVuO6yAxqSHXCA=="/>
         </item>
     </channel>
 </rss>
